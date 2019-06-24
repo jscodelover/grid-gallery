@@ -4,7 +4,7 @@
   "description": "gallery using css grid and pug",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "node-sass --output-style compressed -w style.scss build/style.css"
   },
   "keywords": [
     "pug",
