@@ -14,5 +14,9 @@
     "gallery"
   ],
   "author": "jscodelover",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0",
+    "pug": "^2.0.4"
+  }
 }
