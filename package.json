@@ -4,7 +4,6 @@
   "description": "gallery using css grid and pug",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass --output-style compressed -w style.scss build/style.css",
     "gulp": "gulp",
     "gulp-watch": "gulp watch"
   },
